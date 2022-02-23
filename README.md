@@ -1,4 +1,4 @@
-# proj6-RV64N-on-NutShell
+# proj6-RV64N-user-level-interrupt
 
 ### 项目描述
 在用户态直接响应中断，完成进程间通信将极大提高计算机系统中应用的性能。目前，用户态中断/异常的新硬件机制已经出现在2021年底发布的最新的x86-64 至强可扩展处理器（Sapphire Rapids）上，而且RISC-V也指定了对应的N扩展技术草案。Linux操作系统已经有对Sapphire Rapids用户态中断机制的内核级支持，相关应用的测试性能提高了1~2个数量级。
