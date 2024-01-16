@@ -22,10 +22,10 @@
 
 
 ### 项目导师
-向勇 github https://github.com/xyongcn email xyong@tsinghua.edu.cn
-陈渝 github id: chyyuu email：yuchenATtsinghua.edu.cn
-贾越凯 github id：equation314 email: jyk19ATmails.tsinghua.edu.cn
-尤予阳 github id: Gallium70 email:  youyy18@mails.tsinghua.edu.cn
+- 向勇 github https://github.com/xyongcn email xyong@tsinghua.edu.cn
+- 陈渝 github id: chyyuu email：yuchenATtsinghua.edu.cn
+- 贾越凯 github id：equation314 email: jyk19ATmails.tsinghua.edu.cn
+- 尤予阳 github id: Gallium70 email:  youyy18@mails.tsinghua.edu.cn
 
 ### 难度
 
