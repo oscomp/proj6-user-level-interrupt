@@ -11,20 +11,20 @@
 
 ### 所属赛道
 
-2024全国大学生操作系统比赛的“OS功能挑战”赛道
+2025年全国大学生操作系统比赛的“OS功能挑战”赛道
 
 ### 参赛要求
 
 - 以小组为单位参赛，最多三人一个小组，且小组成员是来自同一所高校的本科生或研究生
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
-- 请遵循“2024全国大学生操作系统比赛”的章程和技术方案要求
+- 请遵循“2025年全国大学生操作系统比赛”的章程和技术方案要求
 
 
 
 ### 项目导师
 - 向勇 github https://github.com/xyongcn email xyong@tsinghua.edu.cn
-- 陈渝 github id: chyyuu email：yuchenATtsinghua.edu.cn
-- 贾越凯 github id：equation314 email: jyk19ATmails.tsinghua.edu.cn
+- 陈渝 github id: chyyuu email：yuchen@tsinghua.edu.cn
+- 贾越凯 github id：equation314 email: jyk19@mails.tsinghua.edu.cn
 - 尤予阳 github id: Gallium70 email:  youyy18@mails.tsinghua.edu.cn
 
 ### 难度
